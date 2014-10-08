@@ -7,6 +7,9 @@ of the buttons, it will play the audio corresponding to the button object.
 This project was my first time playing around with Swing and Java's audio
 libraries. 
 
+Languages/Tools Used
+Java
+
 -Issues
 none known
 
